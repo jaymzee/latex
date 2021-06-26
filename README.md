@@ -1,1 +1,1 @@
-# latex
+# latex examples and templates
